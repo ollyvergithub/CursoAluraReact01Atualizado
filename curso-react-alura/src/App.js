@@ -1,9 +1,10 @@
 import React from 'react';
+import Tabela from './Componentes/Tabela'
 
 function App() {
   return (
     <div>
-      <h1>Olá mundo</h1>
+        <Tabela/>
     </div>
   );
 }
